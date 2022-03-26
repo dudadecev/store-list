@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+    width: 100vw;
+    height: 100vh;
+}
+
+#id {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.App {
+    margin: 0;
+}
